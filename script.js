@@ -11,6 +11,9 @@ window.addEventListener('load', function() {
 
 document.getElementById("myButton").addEventListener("click", function () {
 
-    window.location.href = "https://www.google.com";
+    window.location.href = "https://wa.me/212605262279";
   });
+  document.getElementById("Order").addEventListener("click", function () {
 
+    window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSeUfE0mb7v1occcTRADlxUt1Qobsc75gn8Je2ZeYc6vLX9zkA/viewform?usp=sharing";
+  });
